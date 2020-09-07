@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<item
+    android:title="Find Allies"
+    android:id="@+id/main_find_friends_option"
+    app:showAsAction="never"
+    >
+</item>
+    <item
+        android:title="Create Teams"
+        android:id="@+id/main_create_group_option"
+        app:showAsAction="never"
+        >
+    </item>
+    <item
+        android:title="Settings"
+        android:id="@+id/main_settings_option"
+        app:showAsAction="never"
+        >
+    </item>
+    <item
+        android:title="Logout"
+        android:id="@+id/main_logout_option"
+        app:showAsAction="never"
+        >
+    </item>
+    <item
+        android:title="Look for Games"
+        android:id="@+id/play_games"
+        app:showAsAction="never"
+        >
+    </item>
+    <item
+        android:title="Change the Theme"
+        android:id="@+id/changeTheme"
+        app:showAsAction="never"
+        >
+    </item>
+    <item
+        android:title="Events"
+        android:id="@+id/events"
+        app:showAsAction="never"
+        >
+    </item>
+</menu>
